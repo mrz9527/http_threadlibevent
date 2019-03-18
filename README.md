@@ -1,4 +1,4 @@
-http_libevent
+http_libevent_threadpool
 =
 
 ## Introduction
